@@ -97,7 +97,7 @@ This image captioning tool can be adapted for various real-world scenarios, such
 ## Credits
 - BLIP Model: [Hugging Face Transformers](https://huggingface.co/Salesforce/blip-image-captioning-base)
 - Gradio: [Gradio](https://gradio.app/)
-- Sample Image: [Unsplash]([https://unsplash.com/photos/longchain-image](https://unsplash.com/photos/a-woman-sitting-on-top-of-a-rock-next-to-a-lake-BVWbx_p9orI))
+- Sample Image: [Unsplash]( [https://unsplash.com/photos/longchain-image](https://unsplash.com/photos/a-woman-sitting-on-top-of-a-rock-next-to-a-lake-BVWbx_p9orI)
 
 ---
 
